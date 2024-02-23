@@ -4,7 +4,7 @@
 ``` bash
 pip install aiohttp
 ```
-### misskey.ioから接続されているサーバーを取得
+### misskey.ioに接続されているサーバーを取得
 ``` bash
 wget https://misskey.io/api/v1/instance/peers -O urls.json
 ```
